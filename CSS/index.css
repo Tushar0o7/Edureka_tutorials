@@ -1,0 +1,17 @@
+/* This is a Tag selecter
+#headerTop {
+  background-color: red;
+} */
+
+/* This is a Tag selecter */
+div {
+  background-color: cadetblue;
+  color: white;
+}
+
+/* This is a Class selecter */
+
+.bg-color {
+  background-color: red;
+  color: white;
+}
