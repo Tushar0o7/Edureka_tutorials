@@ -4,14 +4,22 @@
 } */
 
 /* This is a Tag selecter */
-div {
+
+/* div {
   background-color: cadetblue;
   color: white;
-}
+} */
 
 /* This is a Class selecter */
 
 .bg-color {
   background-color: red;
   color: white;
+}
+
+.content {
+  width: 120px;
+  height: 120px;
+  color: white;
+  background-image: url("https://www.blogenium.com/wp-content/uploads/2019/08/blogenium-fast-food-hd-wallpaper-9.jpg");
 }
