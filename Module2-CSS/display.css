@@ -1,0 +1,16 @@
+.backg {
+  background-color: brown;
+}
+/* Types of Displays
+1. Inline
+2. Block */
+
+.display-div {
+  display: inline;
+}
+
+.dispaly-span {
+  /* display: block; */
+  display: inline-block;
+  height: 100px;
+}
