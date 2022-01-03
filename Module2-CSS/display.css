@@ -6,11 +6,14 @@
 2. Block */
 
 .display-div {
-  display: inline;
+  display: flex;
+  /* visibility: hidden; */
+  /* display: none; */
 }
 
 .dispaly-span {
   /* display: block; */
   display: inline-block;
   height: 100px;
+  width: 200px;
 }
