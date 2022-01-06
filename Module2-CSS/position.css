@@ -2,12 +2,21 @@
   background-color: brown;
 }
 /* Types of Displays
-1. Inline
-2. Block */
+  1. Inline
+  2. Block */
+.parent {
+  /* position: static; */
+  left: 100px;
+}
 
 .display-div {
+  background-color: lightseagreen;
+  position: relative;
+  padding: 25px;
+  border: 20px solid lightgreen;
+  margin: 25px;
+  margin-top: 100px;
   /* display: flex; */
-  position: static;
   /* visibility: hidden; */
   /* display: none; */
 }
