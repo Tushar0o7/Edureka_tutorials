@@ -42,6 +42,20 @@
   border-bottom: 1px solid #dedfe5;
 }
 
+.prices {
+  font-family: monospace;
+  color: #636f88;
+  font-size: 16px;
+}
+
+.td-price {
+  font-family: monospace;
+  padding: 24px;
+  padding-left: 82px;
+  font-size: 16px;
+  color: #192f60;
+}
+
 img {
   width: 140px;
   height: 130px;
